@@ -1,6 +1,6 @@
 {
   "name": "decorators-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "extend-object": "^1.0.0",
-    "js-decorators": "^1.0.0",
+    "js-decorators": "^1.0.1",
     "loader-utils": "^0.2.6"
   }
 }
